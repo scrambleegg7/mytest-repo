@@ -2,11 +2,12 @@
 
 
 test1 on master
-
+tmest2 on develop1
 test2 on master after making develop1 / deelop2 branch
 
-test3 on develop2 branch 21:09pm 19dec2016
+test2 on develop2
 
+test3 on develop2 branch 21:09pm 19dec2016
 test2 on master after making develop1 / deelop2 branch
 
 fix issue43 on issue43 branch
